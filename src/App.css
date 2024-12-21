@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.bg-image {
+  background-color: #f8f9fa;
+  height: 100vh;
+}
+
+.h-screen {
+  height: 100vh;
+}
+
+.rounded-lg {
+  border-radius: 0.5rem;
+}
+
+.text-lg {
+  font-size: 1.5rem;
+}
